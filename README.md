@@ -1,4 +1,4 @@
-# travel-website
+# Tesla-website-clone
 A captivating HTML,CSS and Javascript Tesla website with an exceptional UI and seamless transitions.
 
 
